@@ -11,3 +11,4 @@ passlib[bcrypt]
 bcrypt
 PyJWT
 httpx
+email-validator
