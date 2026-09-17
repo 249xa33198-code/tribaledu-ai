@@ -10,5 +10,7 @@ python-multipart
 passlib[bcrypt]
 bcrypt
 PyJWT
+python-jose
 httpx
 email-validator
+requests
