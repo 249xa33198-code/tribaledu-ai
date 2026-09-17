@@ -7,7 +7,7 @@ import Register from './pages/Register';
 
 function App() {
   return (
-    <Router basename="/tribaledu-ai">
+    <Router>
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/login" element={<Login />} />
