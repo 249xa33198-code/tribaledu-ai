@@ -2,6 +2,7 @@ fastapi
 uvicorn[standard]
 pymongo
 motor
+mongomock_motor
 python-dotenv
 pydantic
 pydantic-settings
